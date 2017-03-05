@@ -1,0 +1,4 @@
+C:\Users\acer\AppData\Local\Temporary Projects\10311245 作業二\bin\Debug\10311245 作業二.exe
+C:\Users\acer\AppData\Local\Temporary Projects\10311245 作業二\bin\Debug\10311245 作業二.pdb
+C:\Users\acer\AppData\Local\Temporary Projects\10311245 作業二\obj\x86\Debug\10311245 作業二.exe
+C:\Users\acer\AppData\Local\Temporary Projects\10311245 作業二\obj\x86\Debug\10311245 作業二.pdb
